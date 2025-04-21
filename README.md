@@ -44,4 +44,4 @@ The **Faculty Evaluation System** is a web-based application designed to facilit
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/faculty-evaluation-system.git
+   git clone https://github.com/tjsyte/faculty-evaluation-system.git
