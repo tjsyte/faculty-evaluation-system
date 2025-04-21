@@ -20,9 +20,6 @@ The **Faculty Evaluation System** is a web-based application designed to facilit
 - **Evaluation Status**: View whether evaluations are open or closed.
 - **Faculty List**: View a list of faculty members assigned to their section and evaluate them if eligible.
 
-### For Faculty:
-- **Evaluation Results**: View aggregated evaluation results, including average ratings and feedback from students.
-
 ---
 
 ## Technologies Used
