@@ -1,5 +1,3 @@
-# faculty-evaluation-system
-
 # Faculty Evaluation System
 
 The **Faculty Evaluation System** is a web-based application designed to facilitate the evaluation of faculty members by students. It provides an intuitive interface for administrators, faculty, and students to manage and participate in the evaluation process. The system ensures transparency, efficiency, and ease of use for all stakeholders.
